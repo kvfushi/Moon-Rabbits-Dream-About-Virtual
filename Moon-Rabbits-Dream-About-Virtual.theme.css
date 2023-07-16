@@ -80,9 +80,9 @@
     --streaming-color: #9dbcd4;
 
     /* Chatbar Colors */
-    --channeltextarea-background: https://raw.githubusercontent.com/kvfushi/Moon-Rabbits-Dream-About-Virtual/main/Moon-Rabbits-Dream-About-Virtual.theme.css ;
+    --channeltextarea-background: (https://raw.githubusercontent.com/kvfushi/Moon-Rabbits-Dream-About-Virtual/main/Moon-Rabbits-Dream-About-Virtual.theme.css);
     --text-color: #4e5c52;
-    --icon-color: var(--text-color);
+    --icon-color: #4e5c52;
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--channeltextarea-background);
     --mentioned-color: 200, 100%, 60%; /* HSL Values Only */
