@@ -41,7 +41,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "tojis whore ♡.";
 
     /* General Colors */
     --border-color: #4e5c52;
@@ -50,10 +50,10 @@
     --name-bg: #d95b72;
 
     /* Background Colors & BG Image */
-    --bg-gradient1: 
-    --bg-gradient2: 
-    --bg-gradient3: 
-    --bg-image: (https://cdn.discordapp.com/attachments/1129507799324430538/1129523457072308287/image.png);
+    --bg-gradient1: #738678;
+    --bg-gradient2: #738678;
+    --bg-gradient3: #738678;
+    --bg-image: 
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
@@ -68,19 +68,19 @@
     --darkL: 16%;   /* Value in % [16% is default] */
 
     /* Windows Buttons Colors */
-    --close-color: #dbb8d3;
-    --max-color: #afdbb7;
-    --min-color: #dbd6af;
+    --close-color: #eb9bc5;
+    --max-color: #8adb94;
+    --min-color: #d9db8a;
 
     /* Status Colors */
-    --online-color: #afdbb7;
-    --idle-color: #dbd6af;
-    --dnd-color: #dbb8d3;
-    --offline-color: #818281;
-    --streaming-color: #9dbcd4;
+    --online-color: #8adb94;
+    --idle-color: #d9db8a;
+    --dnd-color: #eb9bc5;
+    --offline-color: #737372;
+    --streaming-color: #80a2bf;
 
     /* Chatbar Colors */
-    --channeltextarea-background: (https://raw.githubusercontent.com/kvfushi/Moon-Rabbits-Dream-About-Virtual/main/Moon-Rabbits-Dream-About-Virtual.theme.css);
+    --channeltextarea-background: #F0F2F2;
     --text-color: #4e5c52;
     --icon-color: #4e5c52;
     --selected-text-bg: #4e5c52;
