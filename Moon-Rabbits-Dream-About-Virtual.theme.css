@@ -83,8 +83,8 @@
     --channeltextarea-background: (https://raw.githubusercontent.com/kvfushi/Moon-Rabbits-Dream-About-Virtual/main/Moon-Rabbits-Dream-About-Virtual.theme.css);
     --text-color: #4e5c52;
     --icon-color: #4e5c52;
-    --selected-text-bg: var(--text-color);
-    --selected-text-color: var(--channeltextarea-background);
+    --selected-text-bg: #4e5c52;
+    --selected-text-color: #4e5c52;
     --mentioned-color: 200, 100%, 60%; /* HSL Values Only */
 
     /* Other options */
