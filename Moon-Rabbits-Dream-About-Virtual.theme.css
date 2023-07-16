@@ -50,9 +50,9 @@
     --name-bg: #d95b72;
 
     /* Background Colors & BG Image */
-    --bg-gradient1: #738678;
-    --bg-gradient2: #738678;
-    --bg-gradient3: #738678;
+    --bg-gradient1: 
+    --bg-gradient2: 
+    --bg-gradient3: 
     --bg-image: (https://cdn.discordapp.com/attachments/1129507799324430538/1129523457072308287/image.png);
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
