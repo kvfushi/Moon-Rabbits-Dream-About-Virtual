@@ -44,7 +44,7 @@
     --custom-text: "ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ";
 
     /* General Colors */
-    --border-color: #4e5c52;
+    --border-color: #3f4a42;
     --drag-gradient1: #738678;
     --drag-gradient2: #738678;
     --name-bg: #738678;
@@ -53,7 +53,7 @@
     --bg-gradient1: #738678;
     --bg-gradient2: #738678;
     --bg-gradient3: #738678;
-    --bg-image: #738678;
+    --bg-image: #4e5c52;
     --opacity: 1; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
@@ -85,7 +85,7 @@
     --icon-color: #4e5c52;
     --selected-text-bg: #4e5c52;
     --selected-text-color: #4e5c52;
-    --mentioned-color: 200, 100%, 60%; /* HSL Values Only */
+    --mentioned-color: #4e5c52;
 
     /* Other options */
     --border-width: 3px;
